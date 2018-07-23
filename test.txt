@@ -1,0 +1,1 @@
+11 июл. 2017 г. - Это css-свойство добавит плавный скролл в блоках с overflow: scroll. ... Проблема: В Safari на iOS, при смене position с fixed на absolute, ..... html, body { height: 100%; overflow: auto; -webkit-overflow-scrolling: touch; }.
